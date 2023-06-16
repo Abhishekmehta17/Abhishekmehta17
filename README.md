@@ -1,4 +1,4 @@
-<img src="https://github.com/Abhishekmehta17/Abhishekmehta17/assets/131663353/125506bf-4354-4f2e-8502-1e6a98d12521" align="Center" width="1500" height="400">
+<img src="https://github.com/Abhishekmehta17/Abhishekmehta17/assets/131663353/125506bf-4354-4f2e-8502-1e6a98d12521" align="Center" width="1500" height="300">
 
 <h1 align="center">Hi 👋, I'm Abhishek Mehta</h1>
 <h3 align="center">I am a student developer from India, learning Full Stack development.</h3>
