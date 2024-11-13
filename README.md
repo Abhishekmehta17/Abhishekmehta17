@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmehta17&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmehta17" /> </p>
 
-- 🌱 I’m completed my **Full-Stack Development courses**
+- 🌱 I had completed my **Full-Stack Development course**
 
 - 📫 How to reach me **abhishekmehta1794@gmail.com**
 
